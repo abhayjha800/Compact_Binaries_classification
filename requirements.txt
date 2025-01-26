@@ -5,10 +5,7 @@ seaborn
 matplotlib
 gunicorn
 flask
-imblearn
-catboost
-lightgbm
-xgboost  
+imblearn 
 scipy
 statsmodels
 joblib  
