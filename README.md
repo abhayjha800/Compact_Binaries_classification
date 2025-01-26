@@ -15,7 +15,7 @@ The goal of this project is to:
 
 This project leverages SDSS datasets and Python-based libraries to handle astronomical data processing, analysis, and visualization.
 
-> **Note:** This project is a work in progress. We acknowledge that spectral data is essential for a more detailed and accurate analysis. Efforts are underway to acquire or simulate spectral data to enhance the study.
+> **Note:** This project is a work in progress. We acknowledge that Gravitational Wave data and spectral data are essential for a more detailed and accurate analysis. Efforts are underway to acquire or simulate spectral data to enhance the study.
 
 ---
 
@@ -123,9 +123,9 @@ This project uses photometric data , ensure to cite the source appropriately. Re
 ## **Future Work**
 
 - Extend the analysis to include additional photometric features or external datasets.
+- Acquire or simulate Gravitational wave data and spectral data for a more detailed analysis.
 - Incorporate machine learning models for advanced classification.
 - Compare results with theoretical models or simulated data.
-- Acquire or simulate spectral data for a more detailed analysis.
 
 ---
 
